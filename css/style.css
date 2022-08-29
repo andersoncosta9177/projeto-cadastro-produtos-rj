@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav a img{
+    width: 70px;
+}
+nav ul li{
+    float: left;
+}
+
+#logo{
+    margin-bottom: 7px;
+    border-bottom: 1px solid black;
+    border-top: 1px solid black;
+
+
+}
